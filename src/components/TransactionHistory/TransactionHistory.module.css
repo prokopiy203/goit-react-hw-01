@@ -1,0 +1,27 @@
+.wrapperTable {
+  margin-top: 20px;
+  width: 300px;
+  border: solid 2px black;
+  border-collapse: collapse;
+}
+
+.tittle {
+  font-size: 16px;
+  font-weight: 500;
+  color: aliceblue;
+  background-color: black;
+  padding: 5px;
+  border-bottom: solid 2px black;
+}
+
+.section {
+  border: solid 1px black;
+}
+
+.sectionRow:nth-child(even) {
+  background-color: aquamarine;
+}
+
+.sectionRow:nth-child(odd) {
+  background-color: rgb(0, 184, 123);
+}

@@ -1,0 +1,13 @@
+.FriendListItemList {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 12px;
+  height: 250px;
+  width: 300px;
+  border: solid 3px black;
+  padding: 20px;
+}
